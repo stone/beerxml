@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>Dr Smurto&#39;s Golden Ale</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>The Bends Brewery</BREWER>
+ <ASST_BREWER>Designed by Mark Smith</ASST_BREWER>
+ <BATCH_SIZE>20.0000000</BATCH_SIZE>
+ <BOIL_SIZE>37.5952118</BOIL_SIZE>
+ <BOIL_TIME>90.0000000</BOIL_TIME>
+ <EFFICIENCY>70.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>Amarillo Gold</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>8.5000000</ALPHA>
+ <AMOUNT>0.0192393</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>60.0000000</TIME>
+ <NOTES>Unknown origin, but character similar to Cascade.  Used for both bitterness and aroma.
+Used for: IPAs, Ales
+Aroma: Citrus, flowery
+Substitutes: Cascade, Centennial</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>6.0000000</BETA>
+ <HSI>20.0000000</HSI>
+ <DISPLAY_AMOUNT>19.24 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Amarillo Gold</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>8.5000000</ALPHA>
+ <AMOUNT>0.0250111</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>20.0000000</TIME>
+ <NOTES>Unknown origin, but character similar to Cascade.  Used for both bitterness and aroma.
+Used for: IPAs, Ales
+Aroma: Citrus, flowery
+Substitutes: Cascade, Centennial</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>6.0000000</BETA>
+ <HSI>20.0000000</HSI>
+ <DISPLAY_AMOUNT>25.01 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>20.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Amarillo Gold</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>8.5000000</ALPHA>
+ <AMOUNT>0.0225935</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>0.0000000</TIME>
+ <NOTES>Unknown origin, but character similar to Cascade.  Used for both bitterness and aroma.
+Used for: IPAs, Ales
+Aroma: Citrus, flowery
+Substitutes: Cascade, Centennial</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>6.0000000</BETA>
+ <HSI>20.0000000</HSI>
+ <DISPLAY_AMOUNT>22.59 g</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 g</INVENTORY>
+ <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>Pilsner (2 Row) Bel</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>2.3317228</AMOUNT>
+ <YIELD>79.0000000</YIELD>
+ <COLOR>3.8999999</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Belgian base malt for Continental lagers</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>105.0000000</DIASTATIC_POWER>
+ <PROTEIN>10.5000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>2.33 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0363400</POTENTIAL>
+ <DISPLAY_COLOR>3.9 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>Pilsner Liquid Extract</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Munich Malt</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.9742341</AMOUNT>
+ <YIELD>80.0000000</YIELD>
+ <COLOR>17.7000001</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Germany</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Malty-sweet flavor characteristic and adds a reddish amber color to the beer.
+Does not contribute signficantly to body or head retention.
+Use for: Bock, Porter, Marzen, Oktoberfest beers</NOTES>
+ <COARSE_FINE_DIFF>1.3000000</COARSE_FINE_DIFF>
+ <MOISTURE>5.0000000</MOISTURE>
+ <DIASTATIC_POWER>72.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>80.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.97 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0368000</POTENTIAL>
+ <DISPLAY_COLOR>17.7 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>Amber Liquid Extract</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Wheat Malt, Ger</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.7800794</AMOUNT>
+ <YIELD>84.0000000</YIELD>
+ <COLOR>3.8999999</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Germany</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Malted wheat base for use in all wheat styles</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>95.0000000</DIASTATIC_POWER>
+ <PROTEIN>12.5000000</PROTEIN>
+ <MAX_IN_BATCH>60.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.78 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0386400</POTENTIAL>
+ <DISPLAY_COLOR>3.9 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>Wheat Liquid Extract</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Caramunich Malt</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.3076529</AMOUNT>
+ <YIELD>71.7000000</YIELD>
+ <COLOR>110.3000000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Caramel, copper colored malt.  Used in Belgian ales and German bocks.</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>0.0000000</DIASTATIC_POWER>
+ <PROTEIN>0.0000000</PROTEIN>
+ <MAX_IN_BATCH>10.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>0.31 kg</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 kg</INVENTORY>
+ <POTENTIAL>1.0329820</POTENTIAL>
+ <DISPLAY_COLOR>110.3 EBC</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ <MISCS>
+<MISC>
+ <NAME>Whirlfloc Tablet</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Fining</TYPE>
+ <USE>Boil</USE>
+ <AMOUNT>0.217246</AMOUNT>
+ <TIME>15.00</TIME>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <USE_FOR>Clarity</USE_FOR>
+ <NOTES>Aids in clearing yeast and chill haze.  Easy to use tablet form.</NOTES>
+ <DISPLAY_AMOUNT>0.22 Items</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 Items</INVENTORY>
+ <DISPLAY_TIME>15.0 mins</DISPLAY_TIME>
+ <BATCH_SIZE>18.93 l</BATCH_SIZE>
+</MISC>
+</MISCS>
+
+ <YEASTS>
+<YEAST>
+ <NAME>Safale American </NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Ale</TYPE>
+ <FORM>Dry</FORM>
+ <AMOUNT>0.0502753</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>DCL/Fermentis</LABORATORY>
+ <PRODUCT_ID>US-05</PRODUCT_ID>
+ <MIN_TEMPERATURE>15.0000000</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>23.8888889</MAX_TEMPERATURE>
+ <FLOCCULATION>Medium</FLOCCULATION>
+ <ATTENUATION>76.5000000</ATTENUATION>
+ <NOTES>American ale yeast that produces well balanced beers with low diacetyl and a very clean, crisp end palate.</NOTES>
+ <BEST_FOR>American ale, other clean finish ales</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>50.28 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>15.0 C</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>23.9 C</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>2011-03-06</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>American Pale Ale</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>American Ale</CATEGORY>
+ <CATEGORY_NUMBER>10</CATEGORY_NUMBER>
+ <STYLE_LETTER>A</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2008</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.0450000</OG_MIN>
+ <OG_MAX>1.0600000</OG_MAX>
+ <FG_MIN>1.0100000</FG_MIN>
+ <FG_MAX>1.0150000</FG_MAX>
+ <IBU_MIN>30.0000000</IBU_MIN>
+ <IBU_MAX>45.0000000</IBU_MAX>
+ <COLOR_MIN>9.8500000</COLOR_MIN>
+ <COLOR_MAX>27.5800000</COLOR_MAX>
+ <CARB_MIN>2.3000000</CARB_MIN>
+ <CARB_MAX>2.8000000</CARB_MAX>
+ <ABV_MAX>6.2000000</ABV_MAX>
+ <ABV_MIN>4.5000000</ABV_MIN>
+ <NOTES>Refreshing and hoppy, yet with sufficient supporting malt. An American adaptation of English pale ale, reflecting indigenous ingredients (hops, malt, yeast, and water). Often lighter in color, cleaner in fermentation by-products, and having less caramel flavors than English counterparts. There is some overlap in color between American pale ale and American amber ale. The American pale ale will generally be cleaner, have a less caramelly malt profile, less body, and often more finishing hops.</NOTES>
+ <PROFILE>Aroma: Usually moderate to strong hop aroma from dry hopping or late kettle additions of American hop varieties. A citrusy hop character is very common, but not required. Low to moderate maltiness supports the hop presentation, and may optionally show small amounts of specialty malt character (bready, toasty, biscuity). Fruity esters vary from moderate to none. No diacetyl. Dry hopping (if used) may add grassy notes, although this character should not be excessive.
+Appearance: Pale golden to deep amber. Moderately large white to off-white head with good retention. Generally quite clear, although dry-hopped versions may be slightly hazy.
+Flavor: Usually a moderate to high hop flavor, often showing a citrusy American hop character (although other hop varieties may be used). Low to moderately high clean malt character supports the hop presentation, and may optionally show small amounts of specialty malt character (bready, toasty, biscuity). The balance is typically towards the late hops and bitterness, but the malt presence can be substantial. Caramel flavors are usually restrained or absent. Fruity esters can be moderate to none. Moderate to high hop bitterness with a medium to dry finish. Hop flavor and bitterness often lingers into the finish. No diacetyl. Dry hopping (if used) may add grassy notes, although this character should not be excessive.
+Mouthfeel: Medium-light to medium body. Carbonation moderate to high. Overall smooth finish without astringency often associated with high hopping rates.</PROFILE>
+ <INGREDIENTS>Pale ale malt, typically American two-row. American hops, often but not always ones with a citrusy character. American ale yeast. Water can vary in sulfate content, but carbonate content should be relatively low. Specialty grains may add character and complexity, but generally make up a relatively small portion of the grist. Grains that add malt flavor and richness, light sweetness, and toasty or bready notes are often used (along with late hops) to differentiate brands.</INGREDIENTS>
+ <EXAMPLES>Sierra Nevada Pale Ale, Stone Pale Ale, Great Lakes Burning River Pale Ale, Bear Republic XP Pale Ale, Anderson Valley Poleeko Gold Pale Ale, Deschutes Mirror Pond, Full Sail Pale Ale, Three Floyds X-Tra Pale Ale, Firestone Pale Ale, Left Hand Brewing Jackman&#39;s Pale Ale</EXAMPLES>
+ <DISPLAY_OG_MIN>1.045 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.060 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.010 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.015 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>9.8 EBC</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>27.6 EBC</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.045-1.060 SG</OG_RANGE>
+ <FG_RANGE>1.010-1.015 SG</FG_RANGE>
+ <IBU_RANGE>30.0-45.0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2.30-2.80 Vols</CARB_RANGE>
+ <COLOR_RANGE>9.8-27.6 EBC</COLOR_RANGE>
+ <ABV_RANGE>4.50-6.20 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Fredrik eBIAB (18.5 Gal/70 L)</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>37.5952118</BOIL_SIZE>
+ <BATCH_SIZE>20.0000000</BATCH_SIZE>
+ <TUN_VOLUME>69.9926673</TUN_VOLUME>
+ <TUN_WEIGHT>5.9999961</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>6.3216741</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>18.1240646</EVAP_RATE>
+ <BOIL_TIME>90.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>0.0000000</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+ <NOTES>Sample Brew-in-a-bag equipment profile set up for a 70 liter brewing pot  (diameter of 45cm or 18 inches) and using a polyester grain bag to hold the grain.  This profile should be used with the BIAB mash profiles available in the BeerSmith mash profiles area. The above assumes loose pellet hops and only clear, chilled wort transferred from the kettle using no trub management techniques. Experienced brewers should adjust &#39;Loss to Trub and Chiller&#39; and &#39;Brewhouse Efficiency&#39; accordingly to suit their trub management techniques. Careful when mashing in as this profile approaches the pot limits.</NOTES>
+ <DISPLAY_BOIL_SIZE>37.60 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>20.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>69.99 l</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>6.00 kg</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 l</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>6.32 l</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>0.00 l</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 l</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>BIAB, Medium Body</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+ <TUN_TEMP>22.2222222</TUN_TEMP>
+ <SPARGE_TEMP>75.5555556</SPARGE_TEMP>
+ <PH>5.2000000</PH>
+ <TUN_WEIGHT>211.6438080</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1200000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>TRUE</EQUIP_ADJUST>
+ <NOTES>Brew in a bag method where the full boil volume is mashed within the boil vessel and then the grains are withdrawn at the end of the mash.  No sparging.  This is a medium body beer profile.</NOTES>
+ <DISPLAY_GRAIN_TEMP>22.2 C</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>22.2 C</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>75.6 C</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>6.00 kg</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Saccharification</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>40.2810955</INFUSE_AMOUNT>
+ <STEP_TIME>75.0000000</STEP_TIME>
+ <STEP_TEMP>66.6666667</STEP_TEMP>
+ <RAMP_TIME>10.0000000</RAMP_TIME>
+ <END_TEMP>66.6666667</END_TEMP>
+ <DESCRIPTION>Add 40.28 l of water at 69.1 C</DESCRIPTION>
+ <WATER_GRAIN_RATIO>9.168 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>69.1 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>66.7 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>40.28 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Temperature</TYPE>
+ <INFUSE_AMOUNT>0.0000000</INFUSE_AMOUNT>
+ <STEP_TIME>10.0000000</STEP_TIME>
+ <STEP_TEMP>75.5555556</STEP_TEMP>
+ <RAMP_TIME>7.0000000</RAMP_TIME>
+ <END_TEMP>75.5555556</END_TEMP>
+ <DESCRIPTION>Heat to 75.6 C over 7 min</DESCRIPTION>
+ <WATER_GRAIN_RATIO>9.168 l/kg</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 l</DECOCTION_AMT>
+ <INFUSE_TEMP>48.9 C</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>75.6 C</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>0.00 l</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES></NOTES>
+ <TASTE_NOTES>Mash at 66 C or 151 F. This is Dr Smurto&#39;s favourite version. This beer is one of the most widely home-brewed beers in Australia, extremely popular to a wide range of palates and a robust recipe meaning that it can be varied in many ways with little risk. Source: Mark Smith</TASTE_NOTES>
+ <TASTE_RATING>45.0000000</TASTE_RATING>
+ <OG>1.0470000</OG>
+ <FG>1.0100000</FG>
+ <CARBONATION>2.3000000</CARBONATION>
+ <FERMENTATION_STAGES>2</FERMENTATION_STAGES>
+ <PRIMARY_AGE>14.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>18.0000000</PRIMARY_TEMP>
+ <SECONDARY_AGE>4.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>0.0000000</SECONDARY_TEMP>
+ <TERTIARY_AGE>14.0000000</TERTIARY_AGE>
+ <AGE>0.0000000</AGE>
+ <AGE_TEMP>4.0000000</AGE_TEMP>
+ <CARBONATION_USED>Bottle with 107.05 g Corn Sugar</CARBONATION_USED>
+ <FORCED_CARBONATION>TRUE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Corn Sugar</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>1.0000000</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>21.1111111</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>21.1 C</DISPLAY_CARB_TEMP>
+ <DATE>2013-11-06</DATE>
+ <EST_OG>1.047 SG</EST_OG>
+ <EST_FG>1.010 SG</EST_FG>
+ <EST_COLOR>14.4 EBC</EST_COLOR>
+ <IBU>32.7 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>4.9 %</EST_ABV>
+ <ABV>4.8 %</ABV>
+ <ACTUAL_EFFICIENCY>80.6 %</ACTUAL_EFFICIENCY>
+ <CALORIES>436.7 kcal/l</CALORIES>
+ <DISPLAY_BATCH_SIZE>20.00 l</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>37.60 l</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.047 SG</DISPLAY_OG>
+ <DISPLAY_FG>1.010 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>18.0 C</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>0.0 C</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>18.3 C</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>4.0 C</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>

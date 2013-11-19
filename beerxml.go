@@ -30,7 +30,7 @@ type Recipe struct {
 	BatchSize            string        `xml:"BATCH_SIZE"`
 	BoilSize             string        `xml:"BOIL_SIZE"`
 	BoilTIme             string        `xml:BOIL_TIME"`
-	Efficiency           string        `xml:"EFFICIENCY"`
+	Efficiency           float32       `xml:"EFFICIENCY"`
 	Hops                 []Hop         `xml:"HOPS>HOP"`
 	Fermentables         []Fermentable `xml:"FERMENTABLES>FERMENTABLE"`
 	Miscs                []Misc        `xml:"MISCS>MISC"`
@@ -90,7 +90,7 @@ type Hop struct {
 	Time          string   `xml:"TIME"`
 	Notes         string   `xml:"NOTES"`
 	Type          string   `xml:"TYPE"`
-	From          string   `xml:"FROM"`
+	Form          string   `xml:"FORM"`
 	Beta          string   `xml:"BETA"`
 	Hsi           string   `xml:"HSI"`
 	DisplayAmount string   `xml:"DISPLAY_AMOUNT"`

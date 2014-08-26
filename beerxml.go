@@ -234,7 +234,7 @@ type Mash struct {
 	DisplayTunTemp    string     `xml:"DISPLAY_TUN_TEMP"`
 	DisplaySpargeTemp string     `xml:"DISPLAY_SPARGE_TEMP"`
 	DisplayTunWeight  string     `xml:"DISPLAY_TUN_WEIGHT"`
-	MashSteps         []MashStep `xml:"MASHSTEP"`
+	MashSteps         []MashStep `xml:"MASH_STEP"`
 }
 
 type MashStep struct {

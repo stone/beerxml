@@ -29,7 +29,7 @@ type Recipe struct {
 	AsstBrewer           string        `xml:"ASST_BREWER"`
 	BatchSize            string        `xml:"BATCH_SIZE"`
 	BoilSize             string        `xml:"BOIL_SIZE"`
-	BoilTIme             string        `xml:BOIL_TIME"`
+	BoilTime             string        `xml:BOIL_TIME"`
 	Efficiency           float32       `xml:"EFFICIENCY"`
 	Hops                 []Hop         `xml:"HOPS>HOP"`
 	Fermentables         []Fermentable `xml:"FERMENTABLES>FERMENTABLE"`

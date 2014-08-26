@@ -251,7 +251,7 @@ type MashStep struct {
 	WaterGrainRatio  string   `xml:"WATER_GRAIN_RATIO"`
 	DecotionAmt      string   `xml:"DECOTION_AMT"`
 	InfuseTemp       string   `xml:"INFUSE_TEMP"`
-	DisplayStepTemp  string   `xml:"DISPLAY_TEMP_TEMP"`
+	DisplayStepTemp  string   `xml:"DISPLAY_STEP_TEMP"`
 	DisplayInfuseAmt string   `xml:"DISPLAY_INFUSE_AMT"`
 }
 

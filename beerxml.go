@@ -315,7 +315,7 @@ func (bxml *BeerXml) TextSummary() string {
 		buf += fmt.Sprintf("Type: %s\n", bxml.Recipes[x].Type)
 		buf += fmt.Sprintf("Batch Size: %s\n", bxml.Recipes[x].BatchSize)
 		buf += fmt.Sprintf("Boil Size: %s\n", bxml.Recipes[x].BoilSize)
-		buf += fmt.Sprintf("Boil Time: %s\n", bxml.Recipes[x].BoilTIme)
+		buf += fmt.Sprintf("Boil Time: %s\n", bxml.Recipes[x].BoilTime)
 		for f := range bxml.Recipes[x].Fermentables {
 			buf += fmt.Sprintf("Fermentable: %d : %s : %s\n", f, bxml.Recipes[x].Fermentables[f].Name,
 				bxml.Recipes[x].Fermentables[f].DisplayAmount)
